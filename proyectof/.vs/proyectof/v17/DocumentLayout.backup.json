@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|c:\\users\\frijo\\onedrive\\escritorio\\lll\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinal\\proyectoffr\\proyectof\\proyectof\\controlfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\controlfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|c:\\users\\frijo\\onedrive\\escritorio\\lll\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinal\\proyectoffr\\proyectof\\proyectof\\frmmodprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\frmmodprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmmodprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\frmmodprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|c:\\users\\frijo\\onedrive\\escritorio\\lll\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinal\\proyectoffr\\proyectof\\proyectof\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|c:\\users\\frijo\\onedrive\\escritorio\\lll\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinal\\proyectoffr\\proyectof\\proyectof\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|c:\\users\\frijo\\onedrive\\escritorio\\lll\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinal\\proyectoffr\\proyectof\\proyectof\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|c:\\users\\frijo\\onedrive\\escritorio\\lll\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinal\\proyectoffr\\proyectof\\proyectof\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\efectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\efectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmconsventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\frmconsventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|c:\\users\\frijo\\onedrive\\escritorio\\lll\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinal\\proyectoffr\\proyectof\\proyectof\\efectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\efectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|c:\\users\\frijo\\onedrive\\escritorio\\lll\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinal\\proyectoffr\\proyectof\\proyectof\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmgrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\frmgrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\opcventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\opcventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|c:\\users\\frijo\\onedrive\\escritorio\\lll\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinalffffff\\proyectoffinal\\proyectoffr\\proyectof\\proyectof\\opcventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74731E-53ED-4E05-9681-7ACEF6313117}|proyectof\\proyectof.csproj|solutionrelative:proyectof\\opcventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "proyectof\\frmAdmin.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmAdmin.cs",
+              "RelativeToolTip": "proyectof\\frmAdmin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:05:14.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmModProd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmModProd.cs",
+              "RelativeDocumentMoniker": "proyectof\\frmModProd.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmModProd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\frmModProd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:39:29.922Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmUsuario.cs",
+              "RelativeDocumentMoniker": "proyectof\\frmUsuario.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\frmUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:18:00.498Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "proyectof\\frmAdmin.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\frmAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:39:22.082Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmUsuario.cs",
+              "RelativeDocumentMoniker": "proyectof\\frmUsuario.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmUsuario.cs",
+              "RelativeToolTip": "proyectof\\frmUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:01:05.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlFunciones.cs",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\ControlFunciones.cs",
+              "RelativeDocumentMoniker": "proyectof\\ControlFunciones.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\ControlFunciones.cs",
+              "RelativeToolTip": "proyectof\\ControlFunciones.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:50:32.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "trans.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\trans.cs",
+              "RelativeDocumentMoniker": "proyectof\\trans.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\trans.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\trans.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:45:08.731Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "trans.cs",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\trans.cs",
+              "RelativeDocumentMoniker": "proyectof\\trans.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\trans.cs",
+              "RelativeToolTip": "proyectof\\trans.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAnwCkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:45:30.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmConsVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmConsVentas.cs",
+              "RelativeDocumentMoniker": "proyectof\\frmConsVentas.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmConsVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\frmConsVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:39:26.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmGrafica.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmGrafica.cs",
+              "RelativeDocumentMoniker": "proyectof\\frmGrafica.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmGrafica.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\frmGrafica.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:39:28.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\Form1.cs",
+              "RelativeDocumentMoniker": "proyectof\\Form1.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:56:04.55Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmModProd.cs",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmModProd.cs",
+              "RelativeDocumentMoniker": "proyectof\\frmModProd.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\frmModProd.cs",
+              "RelativeToolTip": "proyectof\\frmModProd.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAnwNUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:30:46.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "efectivo.cs",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\efectivo.cs",
+              "RelativeDocumentMoniker": "proyectof\\efectivo.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\efectivo.cs",
+              "RelativeToolTip": "proyectof\\efectivo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:37:14.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\Form1.cs",
+              "RelativeDocumentMoniker": "proyectof\\Form1.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\Form1.cs",
+              "RelativeToolTip": "proyectof\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:56:07.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "efectivo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\efectivo.cs",
+              "RelativeDocumentMoniker": "proyectof\\efectivo.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\efectivo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\efectivo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:36:57.233Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "opcVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\opcVenta.cs",
+              "RelativeDocumentMoniker": "proyectof\\opcVenta.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\opcVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\opcVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:39:35.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tarjeta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\tarjeta.cs",
+              "RelativeDocumentMoniker": "proyectof\\tarjeta.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\tarjeta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\tarjeta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:43:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\Form2.cs",
+              "RelativeDocumentMoniker": "proyectof\\Form2.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectof\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:56:02.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\tarjeta.cs",
+              "RelativeDocumentMoniker": "proyectof\\tarjeta.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\tarjeta.cs",
+              "RelativeToolTip": "proyectof\\tarjeta.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAawGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:44:37.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "opcVenta.cs",
+              "DocumentMoniker": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\opcVenta.cs",
+              "RelativeDocumentMoniker": "proyectof\\opcVenta.cs",
+              "ToolTip": "C:\\Users\\frijo\\OneDrive\\Escritorio\\lll\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinalFFFFFF\\proyectofFinal\\proyectoffr\\proyectof\\proyectof\\opcVenta.cs",
+              "RelativeToolTip": "proyectof\\opcVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:44:06.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
